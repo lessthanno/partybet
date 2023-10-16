@@ -6,8 +6,7 @@
 <br> 2.瓜分大奖池拼手气红包。所有人可提交 0.008eth 作为赌注进入项目大奖池，整点到时，最接近的人赢得奖池内所有 eth 奖励（若出现平手，则平分奖池）。
 
 ## PartyBet Bot 入口：(https://t.me/partybet_bot)
-
-### 合约地址：（https://goerli.arbiscan.io/address/0x98a9aa526cb9162f471f466db8575c6d5d8635f3#code）
+## 合约地址：（https://goerli.arbiscan.io/address/0x98a9aa526cb9162f471f466db8575c6d5d8635f3#code）
 
 #  项目特色：
   1.借助 telegram 群和 bot交互，用户进入门槛低，可实现裂变式增长；
@@ -15,7 +14,7 @@
   <br> 3.参与资金门槛低、回报潜力高，web2 和 web3 用户都可以体验，高流动性为 web3破圈增长。
   <br> 4.机制本身有很强的延展潜力，可以成为社群服务工具、项目营销利器、叠加代币经济学成为去中心化交易所等等。
 
-<img src=https://github.com/lessthanno/partybet/blob/main/public/img1.jpg width=60% />
+<img src=https://github.com/lessthanno/partybet/blob/main/public/img1.jpg width=30% />
 # 合约代码接口说明
 comeing soon
 
