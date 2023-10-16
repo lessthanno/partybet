@@ -5,6 +5,8 @@
 1.去中心化的 telegram 群拼手气红包。好友们在群内竞猜下一个整点的BTC价格，每人提交 0.008eth 作为赌注，整点到时，最接近实际价格的人获得奖池内所有eth 奖励（若出现平手，则平分奖池）。
 <br> 2.瓜分大奖池拼手气红包。所有人可提交 0.008eth 作为赌注进入项目大奖池，整点到时，最接近的人赢得奖池内所有 eth 奖励（若出现平手，则平分奖池）。
 
+### 合约地址：（https://goerli.arbiscan.io/address/0x98a9aa526cb9162f471f466db8575c6d5d8635f3#code）
+
 #  项目特色：
   1.借助 telegram 群和 bot交互，用户进入门槛低，可实现裂变式增长；
   <br> 2.竞猜机制公平公正，也富有参与感，可上瘾有粘性；
@@ -13,7 +15,6 @@
 
 ![partyBetBot](https://github.com/lessthanno/partybet/blob/main/public/img1.jpg)
 
-### 合约地址：（https://goerli.arbiscan.io/address/0x98a9aa526cb9162f471f466db8575c6d5d8635f3#code）
   
 # 合约代码接口说明
 comeing soon
