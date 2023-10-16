@@ -1,4 +1,4 @@
-![partyBetBot](https://github.com/lessthanno/partybet/blob/main/public/img1.jpg)
+
 
 # 项目简介：
 ## Partybet是一个 telegram群组内的竞猜拼手气红包 bot。它包含两种玩法：
@@ -11,8 +11,7 @@
   3.参与资金门槛低、回报潜力高，web2 和 web3 用户都可以体验，高流动性为 web3破圈增长。
   4.机制本身有很强的延展潜力，可以成为社群服务工具、项目营销利器、叠加代币经济学成为去中心化交易所等等。
 
-
-
+![partyBetBot](https://github.com/lessthanno/partybet/blob/main/public/img1.jpg)
 
 # 合约代码接口说明
 comeing soon
