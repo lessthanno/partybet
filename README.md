@@ -1,26 +1,30 @@
 
 
-# 项目简介：
-## Partybet是一个 telegram群组内的竞猜拼手气红包 bot。它包含两种玩法：
-1.去中心化的 telegram 群拼手气红包。好友们在群内竞猜下一个整点的BTC价格，每人提交 0.008eth 作为赌注，整点到时，最接近实际价格的人获得奖池内所有eth 奖励（若出现平手，则平分奖池）。
-<br> 2.瓜分大奖池拼手气红包。所有人可提交 0.008eth 作为赌注进入项目大奖池，整点到时，最接近的人赢得奖池内所有 eth 奖励（若出现平手，则平分奖池）。
+# Project Overview:
+## Partybet is a telegram group-based luck-based red envelope bot. It features two gameplay modes:
+1.Decentralized Telegram Group Red Envelope Game: Friends within the group compete to guess the next hourly BTC price. Each participant submits 0.008 ETH as a bet. When the hour strikes, the person closest to the actual price wins the entire ETH reward pool. In case of a tie, the prize pool is split evenly.
+<br> 
+2.Jackpot Red Envelope Pool: Participants can submit 0.008 ETH as a bet into the project's jackpot pool. When the hour strikes, the person with the closest guess wins the entire ETH reward pool. In the event of a tie, the prize pool is distributed equally.
 
-#  项目特色：
-  1.借助 telegram 群和 bot交互，用户进入门槛低，可实现裂变式增长；
-  <br> 2.竞猜机制公平公正，也富有参与感，可上瘾有粘性；
-  <br> 3.参与资金门槛低、回报潜力高，web2 和 web3 用户都可以体验，高流动性为 web3破圈增长。
-  <br> 4.机制本身有很强的延展潜力，可以成为社群服务工具、项目营销利器、叠加代币经济学成为去中心化交易所等等。
+## Project Features:
+  1.Utilizes Telegram Group and Bot Interaction: Low entry barriers for users, fostering viral growth through easy access.
+  <br> 
+  2.Fair and Engaging Guessing Mechanism: Ensures fairness and participant engagement, creating addictive and sticky user experiences.
+  <br> 
+  3.Low Entry Capital with High Return Potential: Both Web2 and Web3 users can participate with minimal financial requirements, providing high liquidity for Web3 adoption.
+  <br> 
+  4.Versatile Mechanism with Strong Scalability: Beyond a gaming platform, it holds potential as a community service tool, a project marketing instrument, and could evolve into a decentralized exchange with stacked tokenomics.
 
 <img src=https://github.com/lessthanno/partybet/blob/main/public/img1.jpg width=30% />
 
 ## PartyBet Bot 入口：(https://t.me/partybet_bot)
 
-## 合约地址：
+## Contract：
  arbtrum goreli 合约地址：（https://goerli.arbiscan.io/address/0x98a9aa526cb9162f471f466db8575c6d5d8635f3#code）
  <br>
  srcoll sepolia 合约地址：（https://sepolia-blockscout.scroll.io/address/0x59C75f6D283835b0Cb62E9C4A816B4Cb1033D36c/contracts#address-tabs）
 
-# 合约代码接口说明
+# ABI
 comeing soon
 
 # Sample PartyBet Project
